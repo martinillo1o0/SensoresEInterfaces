@@ -1,0 +1,1 @@
+Nuestro mini proyecto consta de 1 sensor y 2 actuadores, el cual uno se encargaba de leer una tarjeta y que si el acceso era correcto, nos mandaba a la siguiente accion la cual era ingresar con Teclado Matricial 4x4 una contraseña que despues, hacia girar un servomotor de manera que simule una cerradura al abrirse.
