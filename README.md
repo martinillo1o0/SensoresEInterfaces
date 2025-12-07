@@ -43,6 +43,9 @@ Integrar un teclado físico
 
 Añadir conexión inalámbrica
 
+VIDEO:
+https://youtu.be/m2I3Vs8-7IA
+
 <br><br>
 
 🔐 Proyecto 2: Sistema de Acceso con Tarjeta, Teclado 4x4 y Servomotor
@@ -91,3 +94,7 @@ Añadir buzzer para alertas
 Registrar intentos fallidos
 
 Integrar conexión a una base de datos
+
+VIDEO: 
+
+https://youtu.be/41ivXExYu0A
